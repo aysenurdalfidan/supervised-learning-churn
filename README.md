@@ -49,7 +49,7 @@ We trained multiple models and compared their performance to select the best one
   - **Accuracy:** 78.89%
   - Gradient Boosting was chosen as it outperformed other models in accuracy and feature selection.
 
-### 5. Model Performance Comparison
+### Model Performance Comparison
 This bar chart compares the accuracy of different models used in the analysis. Gradient Boosting outperformed Decision Tree and Random Forest, achieving the highest accuracy.
 This bar chart compares the accuracy of different models.
 ![Model Comparison](images/model_comparison.png)
