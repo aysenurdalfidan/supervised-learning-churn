@@ -6,7 +6,7 @@ This project aims to analyse and predict customer churn in a telecommunications 
 ## Dataset
 The dataset used in this project is similar to the **Kaggle Telco Customer Churn dataset** ([link](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data)), but may contain slight differences. It includes customer details, service subscriptions, and churn status.
 
-## ## Objectives
+## Objectives
 1. **Perform Exploratory Data Analysis (EDA)** to understand key factors influencing churn.
 2. **Conduct Cohort Analysis** to examine churn behavior based on customer tenure.
 3. **Train and evaluate multiple machine learning models** to determine the best model for churn prediction.
